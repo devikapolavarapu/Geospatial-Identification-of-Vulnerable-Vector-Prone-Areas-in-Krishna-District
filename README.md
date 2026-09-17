@@ -1,5 +1,6 @@
-# Identifying Vulnerable Vector-Prone Areas through Remote Sensing  
-## Krishna District, Andhra Pradesh, India
+# Geospatial Identification of Vulnerable Vector Prone Areas in Krishna District Public
+
+#### Krishna District, Andhra Pradesh, India
 
 ---
 
